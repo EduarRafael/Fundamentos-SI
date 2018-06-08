@@ -1,0 +1,11 @@
+#hijo {
+	position: absolute;
+	top: 100%;
+	left: 67%;
+	height: 50%;
+	width: 60%;
+	margin: -15% 0 0 -25%;
+}
+#padre {
+	position: relative;
+}
